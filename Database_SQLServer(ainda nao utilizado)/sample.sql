@@ -1,1 +1,1 @@
-SELECT * FROM sys.databases;
+SELECT ShieldPME FROM sys.databases;

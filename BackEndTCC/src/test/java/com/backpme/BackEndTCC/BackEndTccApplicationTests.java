@@ -1,10 +1,10 @@
-package com.exampleshieldpme.demo;
+package com.backpme.BackEndTCC;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class BackEndTccApplicationTests {
 
 	@Test
 	void contextLoads() {
