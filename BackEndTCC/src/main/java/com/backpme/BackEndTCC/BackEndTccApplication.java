@@ -8,6 +8,9 @@ public class BackEndTccApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BackEndTccApplication.class, args);
+		
+		System.out.println("Hello");
+
 	}
 
 }
