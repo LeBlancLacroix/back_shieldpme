@@ -1,1 +1,0 @@
-SELECT ShieldPME FROM sys.databases;
