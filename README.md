@@ -1,2 +1,2 @@
-<h1>Back-end e Database do trabalho de Projeto Integrador</h1> <br>
-<h2 style="text-align=center">Colocar o Front quando puder</h2>
+<h1>Apenas um estudo e testes do Back-end com Spring Boot</h1> <br>
+
