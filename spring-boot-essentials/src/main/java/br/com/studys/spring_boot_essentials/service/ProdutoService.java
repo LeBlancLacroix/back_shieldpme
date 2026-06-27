@@ -65,7 +65,7 @@ public class ProdutoService {
         ProdutoEntity produto = PRODUTOS.stream()
                 .filter(p -> p.getId().equals(id))
                 .findAny()
-                .orElseThrow(() -> new NotFoundException("Produto não encontrado"));
+                .orElseThrow(() -> new NotFoundException("Produto não encontrado."));
 
         produto.setNome(produtoDto.getNome());
         produto.setPreco(produtoDto.getPreco());
