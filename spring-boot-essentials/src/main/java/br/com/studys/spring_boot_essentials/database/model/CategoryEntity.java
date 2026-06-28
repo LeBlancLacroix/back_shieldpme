@@ -5,6 +5,9 @@ public class CategoryEntity {
     private Integer id;
     private String name;
 
+    public CategoryEntity() {
+    }
+
     public CategoryEntity(Integer id, String name) {
         this.id = id;
         this.name = name;

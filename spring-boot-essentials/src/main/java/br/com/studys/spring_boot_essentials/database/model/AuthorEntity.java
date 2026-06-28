@@ -5,6 +5,9 @@ public class AuthorEntity {
     private Integer id;
     private String name;
 
+    public AuthorEntity() {
+    }
+
     public AuthorEntity(Integer id, String name) {
         this.id = id;
         this.name = name;

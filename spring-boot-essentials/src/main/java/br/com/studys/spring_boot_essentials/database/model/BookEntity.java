@@ -9,6 +9,8 @@ public class BookEntity {
     private Integer pages;
     private BigDecimal price;
 
+    public BookEntity() {
+    }
 
     public BookEntity(Integer id, String title, Integer pages, BigDecimal price) {
         this.id = id;

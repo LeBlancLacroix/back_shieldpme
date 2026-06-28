@@ -11,17 +11,6 @@ import java.util.List;
 @Service
 public class BookService {
 
-    public static final List<AuthorEntity> AUTHORS = new ArrayList<>();
-
-    static {
-        AUTHORS.add(new AuthorEntity(1, "Dante Alighieri"));
-        AUTHORS.add(new AuthorEntity(2, "Nagatsuki Tappei"));
-        AUTHORS.add(new AuthorEntity(3, "Stephen King"));
-        AUTHORS.add(new AuthorEntity(4, "Vladimir Nabokov"));
-        AUTHORS.add(new AuthorEntity(5, "Brandon Sanderson"));
-    }
-
-
 
 
 }
