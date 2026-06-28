@@ -18,7 +18,7 @@ public class BookService {
         AUTHORS.add(new AuthorEntity(2, "Nagatsuki Tappei"));
         AUTHORS.add(new AuthorEntity(3, "Stephen King"));
         AUTHORS.add(new AuthorEntity(4, "Vladimir Nabokov"));
-        AUTHORS.add(new AuthorEntity(5, ""));
+        AUTHORS.add(new AuthorEntity(5, "Brandon Sanderson"));
     }
 
 
